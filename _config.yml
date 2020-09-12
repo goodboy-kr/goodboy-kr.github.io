@@ -2,11 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
-title:               good boy ÀÇ ºí·Î±× ÀÔ´Ï´Ù.
-=======
-title:               good boyì˜ ë¸”ë¡œê·¸
->>>>>>> 1d63d870b0daf0442dcdba1e874343e346568dab
+title:               good boy's blog¸
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -17,12 +13,12 @@ url:                 https://goodboy-kr.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "ÀÓÃ¢¹Î °³¹Ùº¸"
+tagline:             "lim chang min is babo"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  ³­ ¿À´Ãµµ ÄÚµùÀ» ÇÑ´Ù ³­ ÀÌ·±³»°¡ ³Ê¹« ÁÁ´Ù :)
+  everyday i coding :)
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
