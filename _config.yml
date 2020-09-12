@@ -2,7 +2,11 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 title:               good boy ÀÇ ºí·Î±× ÀÔ´Ï´Ù.
+=======
+title:               good boyì˜ ë¸”ë¡œê·¸
+>>>>>>> 1d63d870b0daf0442dcdba1e874343e346568dab
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
